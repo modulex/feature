@@ -1,5 +1,4 @@
-feature
-===========
+# feature
 
 browser feature detection
 
