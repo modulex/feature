@@ -1,6 +1,5 @@
 {
     "name": "modulex-feature",
-    "private": true,
     "version": "1.0.0",
     "author": "yiminghe <yiminghe@gmail.com>",
     "engines": {
