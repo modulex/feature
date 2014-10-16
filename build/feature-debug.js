@@ -1,4 +1,9 @@
 /*
+Copyright 2014, modulex-feature@1.0.2
+MIT Licensed
+build time: Thu, 16 Oct 2014 03:48:20 GMT
+*/
+/*
 combined modules:
 feature
 */
@@ -88,7 +93,7 @@ function getVendorInfo(name) {
  * @singleton
  */
 module.exports = {
-    version: '1.0.0',
+    version: '1.0.2',
 
     // http://blogs.msdn.com/b/ie/archive/2011/09/20/touch-input-for-ie10-and-metro-style-apps.aspx
     /**
